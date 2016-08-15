@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/asthanasid/nodespike/issues"
   },
-  "homepage": "https://github.com/asthanasid/nodespike#readme"
+  "homepage": "https://github.com/asthanasid/nodespike#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
