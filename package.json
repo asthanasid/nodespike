@@ -1,0 +1,19 @@
+{
+  "name": "nodespike",
+  "version": "1.0.0",
+  "description": "node experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asthanasid/nodespike.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asthanasid/nodespike/issues"
+  },
+  "homepage": "https://github.com/asthanasid/nodespike#readme"
+}
